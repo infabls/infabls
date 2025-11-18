@@ -23,7 +23,7 @@
    <a href="https://smspool.net/?r=DesForge"><img src="https://img.shields.io/badge/-SMS Verifications-00b86b?style=for-the-badge"/></a>
    <a href="mailto:domaseddd@gmail.com"><img src="https://img.shields.io/badge/Mail-%232E87FB?style=for-the-badge&logo=gmail&logoColor=white&color=C71610"/></a>
   <br>
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Desamod&label=Profile%20Visits&style=for-the-badge" />
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=infabls&label=Profile%20Visits&style=for-the-badge" />
   <br>
   <br>
 </div>
@@ -66,22 +66,22 @@ TN2yy56bmbXYosS2jnjW9TyiJbs5Qdtv4m
     <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Desamod&theme=github_dark"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=infabls&theme=github_dark"
     />
     <img
       alt="github profile details"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Desamod&theme=nord_bright"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=infabls&theme=nord_bright"
     />
   </picture>
   <a style="display: flex; align-items: left;">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Desamod&theme=github_dark"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=infabls&theme=github_dark"
     />
     <img
       alt="github profile details"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Desamod&theme=nord_bright"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=infabls&theme=nord_bright"
     />
   </picture>
   </a>
@@ -89,11 +89,11 @@ TN2yy56bmbXYosS2jnjW9TyiJbs5Qdtv4m
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Desamod&theme=github_dark"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=infabls&theme=github_dark"
     />
     <img
       alt="github profile details"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Desamod&theme=nord_bright"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=infabls&theme=nord_bright"
     />
   </picture>
   </a>
